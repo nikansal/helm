@@ -1,0 +1,60 @@
+apiVersion: v1
+entries:
+  cnee-console:
+  - apiVersion: v1
+    created: 2018-08-06T11:29:54.091232221Z
+    description: CNEE Console/Landing page
+    digest: 8e0d6f293d5981ed033133986eb903c425194ca52805bba9b566bc08012b2d58
+    name: cnee-console
+    urls:
+    - http://engci-maven-master.cisco.com/artifactory/mobile-cnat-charts-dev/mobile-cnat-incubator/cnee-console/master/cnee-console-0.8-master-0022-180806112953-b36615e.tgz
+    version: 0.8-master-0022-180806112953-b36615e
+  - apiVersion: v1
+    created: 2018-07-03T05:16:39.352280459Z
+    description: CNEE Console/Landing page
+    digest: 718dc3758b58a65eeb5214da4b268ed88102f0b008c57460e09ac0da27e0a754
+    name: cnee-console
+    urls:
+    - http://engci-maven-master.cisco.com/artifactory/mobile-cnat-charts-dev/mobile-cnat-incubator/cnee-console/master/cnee-console-0.8-master-0000-180703051638-b36615e.tgz
+    version: 0.8-master-0000-180703051638-b36615e
+  - apiVersion: v1
+    created: 2018-07-02T22:16:41.157593472Z
+    description: CNEE Console/Landing page
+    digest: 20a149d79f3c20344e5e56a7af0b9637b405d375a72949920f23657de1fa6e42
+    name: cnee-console
+    urls:
+    - http://engci-maven-master.cisco.com/artifactory/mobile-cnat-charts-dev/mobile-cnat-incubator/cnee-console/master/cnee-console-0.8-master-0000-180702221639-f15b66d.tgz
+    version: 0.8-master-0000-180702221639-f15b66d
+  - apiVersion: v1
+    created: 2018-06-29T23:23:52.582905911Z
+    description: CNEE Console/Landing page
+    digest: 66920c0f6d78b2fdb962b029f5ae48018e1f60f068286d16a3e4b9faadffe1f0
+    name: cnee-console
+    urls:
+    - http://engci-maven-master.cisco.com/artifactory/mobile-cnat-charts-dev/mobile-cnat-incubator/cnee-console/master/cnee-console-0.8-master-0000-180629232351-4c6b991.tgz
+    version: 0.8-master-0000-180629232351-4c6b991
+  - apiVersion: v1
+    created: 2018-06-21T21:38:07.244901887Z
+    description: CNEE Console/Landing page
+    digest: f2b9801c71aad4984dcf23b9aba6c8649314889d6bc4ba73089f15cf043adeed
+    name: cnee-console
+    urls:
+    - http://engci-maven-master.cisco.com/artifactory/mobile-cnat-charts-dev/mobile-cnat-incubator/cnee-console/master/cnee-console-0.8-master-0000-180621213806-4248770.tgz
+    version: 0.8-master-0000-180621213806-4248770
+  - apiVersion: v1
+    created: 2018-06-18T17:26:01.480111716Z
+    description: CNEE Console/Landing page
+    digest: 0e0af29256fbfc5b8e46cdd929cec0ac2e3c30b44b0af954fdf5b9450b171499
+    name: cnee-console
+    urls:
+    - http://engci-maven-master.cisco.com/artifactory/mobile-cnat-charts-dev/mobile-cnat-incubator/cnee-console/master/cnee-console-0.8-master-0000-180618172600-48e94a8.tgz
+    version: 0.8-master-0000-180618172600-48e94a8
+  - apiVersion: v1
+    created: 2018-06-15T17:19:13.938929033Z
+    description: CNEE Console/Landing page
+    digest: 28d6039bc0f5c9af16613addd8fac1ffc8807ce828d7998201c373aebc6f9217
+    name: cnee-console
+    urls:
+    - http://engci-maven-master.cisco.com/artifactory/mobile-cnat-charts-dev/mobile-cnat-incubator/cnee-console/master/cnee-console-0.8-master-0000-180615171912-1875c21.tgz
+    version: 0.8-master-0000-180615171912-1875c21
+generated: 2018-08-06T11:29:54.090480307Z
